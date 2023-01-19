@@ -23,11 +23,11 @@ Now I am successfully acquiring new knowledge, and I am not going to stop there!
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ALNKT&theme=github_dark" />
 </a>
-
+<br>
 <a href="https://t.me/T_ALEX_N"> 
  <img align="left" alt="My Telegram" width="32px" src="https://github.com/ALNKT/icons/blob/main/telegram.png " />
 </a>
-
+<br>
 <a> 
  <img align="right" src="https://komarev.com/ghpvc/?username=ALNKT " />
 </a>
