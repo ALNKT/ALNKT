@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am enthusiastic, attentive, purposeful. I strive for new knowledge, always aiming for the best result.
+
+
+<a href="https://t.me/T_ALEX_N">
+ <img align="left" alt="My Telegram" width="32px" src="https://github.com/ALNKT/icons/blob/main/telegram.png " />
+</a>
 <!--
 **ALNKT/ALNKT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
