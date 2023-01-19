@@ -1,7 +1,3 @@
-<a href="https://github.com/ryo-ma/github-profile-trophy"> 
- <img align="center" src="https://github-profile-trophy.vercel.app/?username=ALNKT&theme=darkhub&margin-w=15&column=-1" />
-</a>
-
 <h3 align="center">Hi there, I'm Alexander :raised_hand:</h3>
 <h4 align="center"><em>Enthusiastic, attentive, purposeful. I strive for new knowledge, always aiming for the best result.</em></h3>
 
@@ -19,15 +15,10 @@ the more interesting and difficult it becomes. And I decided to get a Python dev
 Now I am successfully acquiring new knowledge, and I am not going to stop there!
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ALNKT&theme=github-dark-blue&hide_border=%D0%BB%D0%BE%D0%B6%D1%8C&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=ALNKT&theme=github_dark" />
-</a>
-<br>
 <a href="https://t.me/T_ALEX_N"> 
  <img align="left" alt="My Telegram" width="32px" src="https://github.com/ALNKT/icons/blob/main/telegram.png " />
 </a>
-<br>
+
 <a> 
  <img align="right" src="https://komarev.com/ghpvc/?username=ALNKT " />
 </a>
