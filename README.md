@@ -1,5 +1,5 @@
 <h3 align="center">Hi there, I'm Alex :raised_hand:</h3>
-<h4 align="center">Enthusiastic, attentive, purposeful. I strive for new knowledge, always aiming for the best result.</h3>
+<h4 align="center"><em>Enthusiastic, attentive, purposeful. I strive for new knowledge, always aiming for the best result.</em></h3>
 
 A couple of years ago I bought a smart speaker with a voice assistant inside, and that's how it all started.
 I decided to start designing and developing a smart home, although I didn't know anything, but I was very interested. 
