@@ -1,6 +1,5 @@
-### Hi there 👋
-
-I am enthusiastic, attentive, purposeful. I strive for new knowledge, always aiming for the best result.<br>
+<h3 align="center">Hi there, I'm Alex :raised_hand:</h3>
+<h4 align="center">Enthusiastic, attentive, purposeful. I strive for new knowledge, always aiming for the best result.</h3>
 
 A couple of years ago I bought a smart speaker with a voice assistant inside, and that's how it all started.
 I decided to start designing and developing a smart home, although I didn't know anything, but I was very interested. 
@@ -15,7 +14,7 @@ the more interesting and difficult it becomes. And I decided to get a Python dev
 
 Now I am successfully acquiring new knowledge, and I am not going to stop there!
 
-<a href="https://t.me/T_ALEX_N">
+<a href="https://t.me/T_ALEX_N"> 
  <img align="left" alt="My Telegram" width="32px" src="https://github.com/ALNKT/icons/blob/main/telegram.png " />
 </a>
 <!--
