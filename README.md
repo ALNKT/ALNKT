@@ -1,4 +1,7 @@
-<h3 align="center">Hi there, I'm Alexander :raised_hand:</h3>
+<h3 align="center">Hi there, I'm Alexander
+  <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h3>
+
 <h4 align="center"><em>Enthusiastic, attentive, purposeful. I strive for new knowledge, always aiming for the best result.</em></h3>
 
 A couple of years ago I bought a smart speaker with a voice assistant inside, and that's how it all started.
@@ -13,7 +16,6 @@ to write, for example, a skill for a voice assistant or something else simple. B
 the more interesting and difficult it becomes. And I decided to get a Python developer profession.
 
 Now I am successfully acquiring new knowledge, and I am not going to stop there!
-
 
 <a href="https://t.me/T_ALEX_N"> 
  <img align="left" alt="My Telegram" width="32px" src="https://github.com/ALNKT/icons/blob/main/telegram.png " />
